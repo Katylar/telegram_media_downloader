@@ -59,3 +59,32 @@ photo/
 voice/
 video/
 video_note/
+
+*.temp
+
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+
+# Ignore all video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# Ignore all archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tar
+*.gz
+-*.MP4
